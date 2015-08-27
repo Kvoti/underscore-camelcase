@@ -4,7 +4,8 @@
   "description": "Convert strings and object properties to and from camelCase and underscore",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "scripts/build"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/Kvoti/underscore-camelcase/issues"
   },
-  "homepage": "https://github.com/Kvoti/underscore-camelcase#readme"
+  "homepage": "https://github.com/Kvoti/underscore-camelcase#readme",
+  "dependencies": {
+    "object-walk": "^0.1.1"
+  },
+  "devDependencies": {
+    "babel": "^5.8.21"
+  }
 }
