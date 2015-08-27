@@ -1,0 +1,23 @@
+{
+  "name": "underscore-camelcase",
+  "version": "1.0.0",
+  "description": "Convert strings and object properties to and from camelCase and underscore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kvoti/underscore-camelcase.git"
+  },
+  "keywords": [
+    "object",
+    "camelcase"
+  ],
+  "author": "Mark Allison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kvoti/underscore-camelcase/issues"
+  },
+  "homepage": "https://github.com/Kvoti/underscore-camelcase#readme"
+}
